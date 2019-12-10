@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MaterialButtonTest</string>
+    <string name="textbutton">TextButton</string>
+    <string name="outlinedbutton">OutlinedButton</string>
+    <string name="normal">normal</string>
+    <string name="iconbutton">iconButton</string>
+</resources>
